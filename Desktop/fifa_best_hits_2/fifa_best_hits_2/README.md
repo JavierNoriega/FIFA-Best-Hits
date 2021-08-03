@@ -1,16 +1,12 @@
-# fifa_best_hits_2
+# FIFA BEST HITS
+by Javier Noriega
 
-I hope this works ffs
+This personal project is a Flutter Mobile Application that works for both Android and iOS (Phone and Tablet)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+The main screen is a list with all the FIFAs, if you tap of the FIFAs a new screen pops up with the Best Hits from that FIFA and if you tap one of the songs it will redirect you to a YouTube Search of the same.
 
-A few resources to get you started if this is your first Flutter project:
+There is also a search bar where you can type the name of a song and see if that song is in the list.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I am planning on doing some more add-ons to this project in the future, but for now...
+Feel free to do whatever you want with this project :)
